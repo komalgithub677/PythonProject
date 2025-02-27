@@ -1,2 +1,2 @@
 # PythonProject
-This is a Project of python
+print("Hello World");
